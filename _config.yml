@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title:KinKinetics
+email:kinkinetics@outlook.com
+description: > # Enhancing astronaut resilience and productivity through innovative emotional and psychological support technologies for long-duration space missions."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://Qetsiyeh.github.io" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: Qetsiyeh
 
 # Build settings
 markdown: kramdown
