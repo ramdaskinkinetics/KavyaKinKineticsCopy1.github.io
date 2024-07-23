@@ -1,0 +1,32 @@
+@media (max-width: 767px) {
+    .portfolio-box {
+        margin-bottom: 20px;
+    }
+    .portfolio-box img {
+        width: 100%;
+    }
+    .portfolio-box-caption {
+        padding: 10px;
+    }
+    .portfolio-box-caption .project-category, 
+    .portfolio-box-caption .project-name {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .portfolio-box {
+        margin-bottom: 30px;
+    }
+    .portfolio-box img {
+        width: 100%;
+    }
+    .portfolio-box-caption {
+        padding: 15px;
+    }
+    .portfolio-box-caption .project-category, 
+    .portfolio-box-caption .project-name {
+        font-size: 16px;
+    }
+}
+
