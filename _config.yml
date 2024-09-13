@@ -1,4 +1,4 @@
-"# Site settings
+# Site settings
 title: KinKinetics
 email: kinkinetics@kinkinetics.com
 description: "Enhancing astronaut resilience and productivity through innovative emotional and psychological support technologies for long-duration space missions."
@@ -7,6 +7,9 @@ url: "https://Qetsiyeh.github.io" # the base hostname & protocol for your site
 
 twitter_username: Kin_Kinetics
 github_username: ""
+
+# Logo settings
+logo: "/img/logo.png" # or wherever your logo image is stored
 
 # Build settings
 markdown: kramdown
