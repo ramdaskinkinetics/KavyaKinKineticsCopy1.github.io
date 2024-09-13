@@ -9,7 +9,7 @@ twitter_username: Kin_Kinetics
 github_username: ""
 
 # Logo settings
-logo: "/img/logo.png" # or wherever your logo image is stored
+logo: "/img/imagelogo.png" # or wherever your logo image is stored
 
 # Build settings
 markdown: kramdown
