@@ -8,8 +8,5 @@ url: "https://Qetsiyeh.github.io" # the base hostname & protocol for your site
 twitter_username: Kin_Kinetics
 github_username: ""
 
-# Logo settings
-logo: "/img/imagelogo.png" # or wherever your logo image is stored
-
 # Build settings
 markdown: kramdown
